@@ -1,0 +1,2 @@
+recursive-include tutoropi_plugin_1/patches *
+recursive-include tutoropi_plugin_1/templates *
