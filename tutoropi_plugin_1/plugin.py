@@ -39,7 +39,7 @@ hooks.Filters.CONFIG_OVERRIDES.add_items(
         (
             "OPENEDX_EXTRA_PIP_REQUIREMENTS",
             [
-                "git+https://github.com/mkwkomorowski/blogging_for_humans3.git@branch_14#blogging_for_humans_3",
+                "git+https://github.com/mkwkomorowski/blogging_for_humans3.git@branch_14",
             ]
         )
     ]
